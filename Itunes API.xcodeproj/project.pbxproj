@@ -14,6 +14,7 @@
 		EB032A8021B876AF002FA159 /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB032A7F21B876AF002FA159 /* SearchResult.swift */; };
 		EB032A8221B879C4002FA159 /* ResultType.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB032A8121B879C4002FA159 /* ResultType.swift */; };
 		EB032A8521B87AAC002FA159 /* SearchResultController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB032A8421B87AAC002FA159 /* SearchResultController.swift */; };
+		EB032A8721B885D1002FA159 /* SearchResultsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB032A8621B885D1002FA159 /* SearchResultsTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EB032A7F21B876AF002FA159 /* SearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
 		EB032A8121B879C4002FA159 /* ResultType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultType.swift; sourceTree = "<group>"; };
 		EB032A8421B87AAC002FA159 /* SearchResultController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultController.swift; sourceTree = "<group>"; };
+		EB032A8621B885D1002FA159 /* SearchResultsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		EB032A7E21B87640002FA159 /* View Controller */ = {
 			isa = PBXGroup;
 			children = (
+				EB032A8621B885D1002FA159 /* SearchResultsTableViewController.swift */,
 			);
 			path = "View Controller";
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 			files = (
 				EB032A8521B87AAC002FA159 /* SearchResultController.swift in Sources */,
 				EB032A8021B876AF002FA159 /* SearchResult.swift in Sources */,
+				EB032A8721B885D1002FA159 /* SearchResultsTableViewController.swift in Sources */,
 				EB032A8221B879C4002FA159 /* ResultType.swift in Sources */,
 				EB032A6B21B875C3002FA159 /* AppDelegate.swift in Sources */,
 			);
